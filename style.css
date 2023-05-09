@@ -43,7 +43,7 @@ body {
   }
   
   #hero {
-    background-image: url('https://p7.hiclipart.com/preview/977/537/302/flower-floral-design-watercolor-painting-illustration-watercolor-floral-decoration.jpg');
+    background-image: url('https://media.istockphoto.com/id/1314054062/vector/abstract-simply-background-with-natural-line-arts.jpg?s=612x612&w=0&k=20&c=QtBb0IP9iQISX0jsNVdOgbX7VCrCfXWpA9uUMd9c4q4=');
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -64,7 +64,7 @@ body {
   
   #hero p {
     font-size: 24px;
-    margin: 20px 0;
+    margin: 0;
     padding: 20px;
   }
   
